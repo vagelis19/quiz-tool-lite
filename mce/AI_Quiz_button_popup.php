@@ -23,6 +23,14 @@ h1
 	padding-left:20px;
 }
 
+.h2-title
+{
+	font-family: "Arial";
+	padding-left:20px;
+	color:white;
+	background-color:#0084b4;
+}
+
 #potsDiv {
     float:left;
     width:200px;
@@ -47,11 +55,21 @@ html
 	background:#fff; !important	
 }
 
+a:link {
+  text-decoration: none;
+}
+a:active {
+  color: blue;
+}
+a:link {
+  color: green;
+}
+
 </style>
 </head>
 
 <body>
-<h2><?php _e('Select your Question or Quiz', 'qtl') ?></h2>
+<h2 class="h2-title"><?php _e('Select your Question or Quiz', 'qtl') ?></h2>
 <?php
 
 require_once AIQUIZ_PATH.'scripts/qry-functions.php'; # All the DB queries
