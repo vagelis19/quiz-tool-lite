@@ -3,9 +3,9 @@
 An improved, production ready fork of the [Quiz Tool Lite](https://wordpress.org/plugins/quiz-tool-lite/) plugin. 
 
 Tested up to : 
-- PHP 7.3.9
+- PHP 7.4.1
 - MySQL 5.7
-- WordPress 5.2.3
+- WordPress 5.3.2
 
 == Changes over original plugin ==  
 
