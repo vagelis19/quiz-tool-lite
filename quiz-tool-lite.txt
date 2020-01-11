@@ -1,0 +1,99 @@
+quiz-tool-lite/
+├── admin
+│   ├── boundary_edit.php
+│   ├── export.php
+│   ├── grade_boundaries.php
+│   ├── help
+│   │   ├── help-el.php
+│   │   ├── help-en_US.php
+│   │   ├── help-sl_SI.php
+│   │   ├── pot-example-el.jpg
+│   │   ├── pot-example-en_US.jpg
+│   │   ├── pot-example-sl_SI.jpg
+│   │   ├── question-add-el.jpg
+│   │   ├── question-add-en_US.jpg
+│   │   └── question-add-sl_SI.jpg
+│   ├── home.php
+│   ├── index.php
+│   ├── question_edit.php
+│   ├── questions.php
+│   ├── question_type.php
+│   ├── quiz_breakdown.php
+│   ├── quiz_edit.php
+│   ├── quiz_list.php
+│   ├── quiz_settings.php
+│   ├── results.php
+│   └── user_results.php
+├── css
+│   ├── qtl-styles.css
+│   └── spectrum.css
+├── functions.php
+├── images
+│   ├── example_blank.png
+│   ├── example_check.gif
+│   ├── example_radio.gif
+│   ├── example_reflection_box.gif
+│   ├── example_reflection.gif
+│   ├── example_text.gif
+│   ├── icons
+│   │   ├── correct
+│   │   │   ├── tick10.png
+│   │   │   ├── tick1.png
+│   │   │   ├── tick2.png
+│   │   │   ├── tick3.png
+│   │   │   ├── tick4.png
+│   │   │   ├── tick5.png
+│   │   │   ├── tick6.png
+│   │   │   ├── tick7.png
+│   │   │   ├── tick8.png
+│   │   │   └── tick9.png
+│   │   ├── cross.png
+│   │   ├── incorrect
+│   │   │   ├── cross10.png
+│   │   │   ├── cross1.png
+│   │   │   ├── cross2.png
+│   │   │   ├── cross3.png
+│   │   │   ├── cross4.png
+│   │   │   ├── cross5.png
+│   │   │   ├── cross6.png
+│   │   │   ├── cross7.png
+│   │   │   ├── cross8.png
+│   │   │   └── cross9.png
+│   │   ├── page_copy.png
+│   │   └── tick.png
+│   ├── qtl_logo.gif
+│   ├── qtl_logo.png
+│   └── quiz_icon.png
+├── languages
+│   ├── qtl-el.mo
+│   ├── qtl-el.po
+│   ├── qtl.mo
+│   └── qtl.po
+├── mce
+│   ├── AI_Quiz_button_popup.php
+│   ├── editor_plugin.js
+│   ├── quiz_icon.png
+│   └── tiny_mce_popup.js
+├── quizFrontEnd
+│   └── draw.php
+├── quiz-tool-lite.php
+├── README.md
+├── readme.txt
+└── scripts
+    ├── actions.php
+    ├── admin.js
+    ├── ajax.php
+    ├── database.php
+    ├── draw.php
+    ├── export-functions.php
+    ├── jquery
+    │   └── timer
+    │       ├── jquery.timer.js
+    │       └── timer.js
+    ├── js-functions.js
+    ├── qry-functions.php
+    ├── spectrum.js
+    ├── tabs.php
+    └── utils.php
+
+13 directories, 83 files
